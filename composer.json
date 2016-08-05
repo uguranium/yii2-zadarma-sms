@@ -1,0 +1,27 @@
+{
+  "name": "uguranyum/yii2-zadarma-sms",
+  "description": "Zadarma Sms Extension for yii2",
+  "keywords": [
+    "numbers",
+    "currency",
+    "spell"
+  ],
+  "type": "extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ugur",
+      "email": "uguranyum@yandex.com"
+    }
+  ],
+
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "uguranyum\\zadarma\\": ""
+    }
+  }
+}
